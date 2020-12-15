@@ -1,0 +1,21 @@
+.text {
+  margin-top: 30vh;
+  border: 1px solid deepskyblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text>div {
+  height: 50px;
+}
+.problem-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.problem {
+  color: chocolate;
+  font-size: 20px;
+}
